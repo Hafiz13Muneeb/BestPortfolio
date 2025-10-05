@@ -490,7 +490,7 @@ nav {
 
 /* For mobile devices (portrait & landscape) */
 
-@media (max-width: 376px) {
+@media (max-width: 412px) {
     #page1 {
         height: 80vh;
     }
@@ -517,4 +517,5 @@ nav {
     #page3 {
         height: 50vh;
     }
+
 }
